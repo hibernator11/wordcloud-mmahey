@@ -8,4 +8,4 @@ For the visualisation, each adjective is assigned a frequency value that determi
 
 The resulting word cloud transforms descriptive language into a visual representation of professional identity, highlighting themes of creativity, collaboration, openness, experimentation and community building.
 
-<img width="50%" src="mahendra_mahey_wordcloud.png">
+<img width="70%" src="mahendra_mahey_wordcloud.png">
