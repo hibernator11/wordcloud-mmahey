@@ -1,10 +1,10 @@
 # wordcloud-Mahendra-Mahey
 
-## Authors
+### Authors
 - Gustavo Candela
 - Sally Chambers
 
-##Adjective Selection and Methodology
+### Adjective Selection and Methodology
 
 The word cloud is built around a collection of descriptive adjectives that aim to capture Mahendra Mahey's professional identity, personality, contributions and approach to collaboration and innovation. The adjectives are inspired by his publicly visible professional work, particularly his contributions to digital cultural heritage, British Library Labs, GLAM Labs, community building, experimentation and knowledge sharing. The were automatically retrieved using a prompt.
 
