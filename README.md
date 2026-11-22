@@ -15,3 +15,7 @@ The resulting word cloud transforms descriptive language into a visual represent
 <img width="70%" src="mahendra_mahey_wordcloud.png">
 
 Note that we employed cloud services to generate the list of adjectives and the code. The Jupyter Notebook code was reviewed.
+
+### References
+
+- [glamlabs.io](https://www.glamlabs.io/)
