@@ -1,5 +1,7 @@
 # wordcloud-Mahendra-Mahey
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/wordcloud-mmahey/HEAD)
+
 ### Authors
 - Gustavo Candela
 - Sally Chambers
