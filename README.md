@@ -6,7 +6,11 @@
 - Gustavo Candela
 - Sally Chambers
 
-### Adjective Selection and Methodology
+## Sources
+
+The adjectives used in this visualisation were developed through a qualitative review of Mahendra Mahey's publicly available professional information, including his LinkedIn profile, institutional biographies, academic publications and contributions to the international GLAM Labs community. Particular attention was given to his work establishing and managing British Library Labs, promoting digital cultural heritage, encouraging experimentation with digital collections, and fostering international collaboration and knowledge sharing. The publication Open a GLAM Lab (2019) was an especially important reference, as it provides first-hand insights into his professional background, skills, motivations and approach to community building. The selected adjectives represent an interpretative synthesis of these sources rather than a formal personality assessment or a collection of independently verified opinions.
+
+### Methodology
 
 The word cloud is built around a collection of descriptive adjectives that aim to capture Mahendra Mahey's professional identity, personality, contributions and approach to collaboration and innovation. The adjectives are inspired by his publicly visible professional work, particularly his contributions to digital cultural heritage, British Library Labs, GLAM Labs, community building, experimentation and knowledge sharing. The were automatically retrieved using a prompt.
 
