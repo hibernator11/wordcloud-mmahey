@@ -1,4 +1,4 @@
-# celebrating-Mahendra-Mahey
+# wordcloud-Mahendra-Mahey
 
 Adjective Selection and Methodology
 
