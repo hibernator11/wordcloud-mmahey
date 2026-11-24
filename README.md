@@ -5,6 +5,7 @@
 ### Authors
 - Gustavo Candela
 - Sally Chambers
+- Nele Gabriels
 
 ## Sources
 
