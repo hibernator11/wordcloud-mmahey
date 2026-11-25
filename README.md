@@ -20,6 +20,8 @@ The word cloud is built around a collection of descriptive adjectives that aim t
 
 For the visualisation, each adjective is assigned a frequency value that determines its relative size within the word cloud. Selected words, including Collaborative, Innovative, Inspiring, Visionary and Creative, are given higher weights to make them more prominent. These weights are creative design decisions intended to establish a visual hierarchy rather than quantitative measurements of Mahendra's personality or professional achievements.
 
+Additional adjectives (e.g., joy and fun) were added by the contributors listed in this document.
+
 The resulting word cloud transforms descriptive language into a visual representation of professional identity, highlighting themes of creativity, collaboration, openness, experimentation and community building.
 
 <img width="70%" src="mahendra_mahey_wordcloud.png">
