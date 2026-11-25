@@ -10,7 +10,7 @@
 - Andrea Kocsis
 - Abbey Potter
 
-## Sources
+### Sources
 
 The adjectives used in this visualisation were developed through a qualitative review of Mahendra Mahey's publicly available professional information, including his LinkedIn profile, institutional biographies, academic publications and contributions to the international GLAM Labs community. Particular attention was given to his work establishing and managing British Library Labs, promoting digital cultural heritage, encouraging experimentation with digital collections, and fostering international collaboration and knowledge sharing. The publication Open a GLAM Lab (2019) was an especially important reference, as it provides first-hand insights into his professional background, skills, motivations and approach to community building. The selected adjectives represent an interpretative synthesis of these sources rather than a formal personality assessment or a collection of independently verified opinions.
 
