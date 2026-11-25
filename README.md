@@ -28,6 +28,14 @@ The resulting word cloud transforms descriptive language into a visual represent
 
 **Note that we employed cloud services to automatically generate the list of adjectives and the code. The Jupyter Notebook code was reviewed.**
 
+### How to extend this work?
+
+- Compare the list of adjectives generated using several LLM's. Note that you can also use a local environment.
+- Include a list of adjectives manually generated.
+- Describe in more detail the generation process.
+- Provide detailed documentation about the dataset using for datasheets for cultural heritage datasets.
+- Create a knowledge graph from the data generated. 
+
 ### References
 
 - [glamlabs.io](https://www.glamlabs.io/)
