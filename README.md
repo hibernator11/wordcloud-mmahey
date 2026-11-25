@@ -2,10 +2,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/wordcloud-mmahey/HEAD)
 
-### Authors
+### Contributors
 - Gustavo Candela
 - Sally Chambers
 - Nele Gabriëls
+- Olga Holownia
 - Andrea Kocsis
 
 ## Sources
