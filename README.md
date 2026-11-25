@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/wordcloud-mmahey/HEAD)
 
-### Contributors
+### Contributors (Alphabetical order)
 - Gustavo Candela
 - Sally Chambers
 - Nele Gabriëls
