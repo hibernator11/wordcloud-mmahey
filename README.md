@@ -6,8 +6,8 @@
 - Gustavo Candela
 - Sally Chambers
 - Nele Gabriëls
-- Olga Holownia
 - Katrine Hoffmann
+- Olga Holownia
 - Andrea Kocsis
 - Abbey Potter
 
