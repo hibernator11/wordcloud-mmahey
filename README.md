@@ -7,6 +7,7 @@
 - Sally Chambers
 - Nele Gabriëls
 - Olga Holownia
+- Katrine Hoffmann
 - Andrea Kocsis
 - Abbey Potter
 
