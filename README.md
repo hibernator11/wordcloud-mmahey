@@ -38,4 +38,5 @@ The resulting word cloud transforms descriptive language into a visual represent
 
 ### References
 
-- [glamlabs.io](https://www.glamlabs.io/)
+- International GLAM Labs Community. [glamlabs.io](https://www.glamlabs.io/)
+- Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
